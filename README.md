@@ -25,13 +25,13 @@ wifi-localization-data-mining/
 │   └── processed/
 │       └── wifi_localization.csv              # File CSV đã chuẩn hóa header (2000 dòng x 8 cột)
 ├── notebooks/
-│   ├── members/                               # Không gian làm việc riêng của 5 thành viên
+│   ├── members/
 │   │   ├── 01_eda_preprocessing.ipynb
 │   │   ├── 02_pca_visualization.ipynb
 │   │   ├── 03_classification_knn_svm.ipynb
 │   │   ├── 04_rf_and_kmeans.ipynb
 │   │   └── 05_dbscan_evaluation.ipynb
-│   └── final/                                 # Sản phẩm tổng hợp nộp cuối kỳ
+│   └── final/                                 # Sản phẩm tổng hợp
 │       ├── Main_WiFi_Localization_Group.ipynb
 │       └── Main_WiFi_Localization_Group.pdf
 ├── figures/                                   # Lưu trữ biểu đồ xuất ra từ code
