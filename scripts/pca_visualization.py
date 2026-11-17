@@ -1,5 +1,3 @@
-"""TV2 - Huy: Chuẩn hóa dữ liệu và trực quan hóa PCA 2D."""
-
 from pathlib import Path
 
 import matplotlib.pyplot as plt
